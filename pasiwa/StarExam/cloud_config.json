@@ -1,6 +1,0 @@
-{
-  "_說明": "（選用）雲端寫入服務設定：沒有連結 Google 帳號時，可改用 Apps Script 寫入與辨識。fileUrl：雲端 Questions.js 的分享連結（共用設為「知道連結的任何人」可檢視）。scriptUrl：部署 StarExam_雲端題庫.gs 後得到的網頁應用程式網址（https://script.google.com/macros/s/.../exec）。token：寫入代碼，必須和 .gs 檔裡的 TOKEN 相同。",
-  "fileUrl": "https://drive.usercontent.google.com/open?id=1HoZvyqXeJ9qKc89oleXjkUWcrv4_pJi0",
-  "scriptUrl": "",
-  "token": ""
-}

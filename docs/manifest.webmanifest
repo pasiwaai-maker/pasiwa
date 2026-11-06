@@ -1,0 +1,32 @@
+{
+  "name": "星星考題樂園",
+  "short_name": "星星考題",
+  "lang": "zh-Hant",
+  "description": "國小、國中各科段考模擬卷，有詳解、錯題本，可離線練習。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EAF4FF",
+  "theme_color": "#FFC93C",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

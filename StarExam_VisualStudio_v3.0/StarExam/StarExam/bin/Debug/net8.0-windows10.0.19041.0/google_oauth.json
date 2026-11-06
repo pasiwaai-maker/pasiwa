@@ -1,5 +1,0 @@
-{
-  "_說明": "開發者只需設定一次：Google Cloud Console 建立「桌面應用程式」OAuth 用戶端（Drive API、範圍 drive.file），把 ID 與密鑰填在下面後重新建置。家長端只需輸入 Gmail 並在 Google 登入頁輸入密碼。",
-  "client_id": "",
-  "client_secret": ""
-}
